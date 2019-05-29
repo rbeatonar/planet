@@ -1,5 +1,4 @@
-a.dat
-b.dat
-b.out
-c.dat
+
+*.dat
 results/
+!b.dat
